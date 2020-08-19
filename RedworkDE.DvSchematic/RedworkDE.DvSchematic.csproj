@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net46</TargetFramework>
+    <Configurations>BepInEx;UMM</Configurations>
+    <Platforms>x64</Platforms>
+    <LangVersion>preview</LangVersion>
+    <Product>Enhanced Schematics Map</Product>
+    <Version>1.0.0</Version>
+    <Authors>RedworkDE</Authors>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RedworkDE.DerailValley.ModBase" Version="0.1.114" />
+    <PackageReference Include="RedworkDE.Publicizer" Version="0.2.2" />
+    <PublicizeAssembly Include="Assembly-CSharp" Private="True" Readonly="True" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="map.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

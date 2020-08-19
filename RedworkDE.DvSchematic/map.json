@@ -1,0 +1,1334 @@
+[
+  {
+    "name": "CitySW-A",
+    "url": "http://localhost:6886/schematic/images/Map-CitySW-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 5466, 1383 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 6054, 2013 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 5775, 2282 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 5148, 1746 ]
+      },
+      {
+        "map": [ 0.202, 0.67235533698736982 ],
+        "world": [ 5420, 1562 ]
+      },
+      {
+        "map": [ 0.254, 0.67235533698736982 ],
+        "world": [ 5665, 1796 ]
+      },
+      {
+        "map": [ 0.254, 0.61187959011243742 ],
+        "world": [ 5626, 1850 ]
+      },
+      {
+        "map": [ 0.202, 0.61187959011243742 ],
+        "world": [ 5360, 1637 ]
+      },
+      {
+        "map": [ 0.203, 0.40753157564072018 ],
+        "world": [ 5334, 1663 ]
+      },
+      {
+        "map": [ 0.254, 0.40753157564072018 ],
+        "world": [ 5580, 1895 ]
+      },
+      {
+        "map": [ 0.254, 0.34566931692627667 ],
+        "world": [ 5536, 1934 ]
+      },
+      {
+        "map": [ 0.203, 0.34566931692627667 ],
+        "world": [ 5289, 1706 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "CitySW-C"
+      },
+      {
+        "points": [ 8, 9, 10, 11 ],
+        "linkTarget": "CitySW-B"
+      }
+    ]
+  },
+  {
+    "name": "CitySW-B",
+    "url": "http://localhost:6886/schematic/images/Map-CitySW-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "CitySW-C",
+    "url": "http://localhost:6886/schematic/images/Map-CitySW-C.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "CoalMine-A",
+    "url": "http://localhost:6886/schematic/images/Map-CoalMine-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 11798, 15783 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 10981, 15822 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 10967, 15421 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 11777, 15411 ]
+      },
+      {
+        "map": [ 0.506, 0.36177668493684878 ],
+        "world": [ 11564.5, 15596.5 ]
+      },
+      {
+        "map": [ 0.563, 0.36177668493684878 ],
+        "world": [ 11273, 15583.5 ]
+      },
+      {
+        "map": [ 0.563, 0.30130093806191638 ],
+        "world": [ 11278, 15537.5 ]
+      },
+      {
+        "map": [ 0.506, 0.30130093806191638 ],
+        "world": [ 11568.5, 15553 ]
+      },
+      {
+        "map": [ 0.508, 0.62660044628349842 ],
+        "world": [ 11636, 15630 ]
+      },
+      {
+        "map": [ 0.562, 0.62660044628349842 ],
+        "world": [ 11360, 15719 ]
+      },
+      {
+        "map": [ 0.562, 0.566124699408566 ],
+        "world": [ 11349, 15687.5 ]
+      },
+      {
+        "map": [ 0.508, 0.566124699408566 ],
+        "world": [ 11627, 15605.5 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "CoalMine-B"
+      },
+      {
+        "points": [ 8, 9, 10, 11 ],
+        "linkTarget": "CoalMine-C"
+      }
+    ]
+  },
+  {
+    "name": "CoalMine-B",
+    "url": "http://localhost:6886/schematic/images/Map-CoalMine-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "CoalMine-C",
+    "url": "http://localhost:6886/schematic/images/Map-CoalMine-C.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "Farm-A",
+    "url": "http://localhost:6886/schematic/images/Map-Farm-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 6637, 5708 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 7041, 6294 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 6878, 6514 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 6421, 5888 ]
+      },
+      {
+        "map": [ 0.473, 0.62937346996252086 ],
+        "world": [ 6616, 5823 ]
+      },
+      {
+        "map": [ 0.528, 0.62937346996252086 ],
+        "world": [ 6897, 6156 ]
+      },
+      {
+        "map": [ 0.528, 0.56889772308758857 ],
+        "world": [ 6849, 6196 ]
+      },
+      {
+        "map": [ 0.473, 0.56889772308758857 ],
+        "world": [ 6568, 5872 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "Farm-B"
+      }
+    ]
+  },
+  {
+    "name": "Farm-B",
+    "url": "http://localhost:6886/schematic/images/Map-Farm-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "FoodFactory-A",
+    "url": "http://localhost:6886/schematic/images/Map-FoodFactory-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 13209, 9132 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 13880, 9392 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 13764, 9702 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 13089, 9443 ]
+      },
+      {
+        "map": [ 0.472, 0.23421759570181333 ],
+        "world": [ 13277, 9397.5 ]
+      },
+      {
+        "map": [ 0.529, 0.23421759570181333 ],
+        "world": [ 13615, 9530.5 ]
+      },
+      {
+        "map": [ 0.529, 0.16958231330834717 ],
+        "world": [ 13596.5, 9564.5 ]
+      },
+      {
+        "map": [ 0.472, 0.16958231330834717 ],
+        "world": [ 13261, 9441.5 ]
+      },
+      {
+        "map": [ 0.471, 0.32156784159102236 ],
+        "world": [ 13267.5, 9361.5 ]
+      },
+      {
+        "map": [ 0.527, 0.32156784159102236 ],
+        "world": [ 13659.5, 9513 ]
+      },
+      {
+        "map": [ 0.527, 0.26109209471609007 ],
+        "world": [ 13654, 9538 ]
+      },
+      {
+        "map": [ 0.471, 0.26109209471609007 ],
+        "world": [ 13256, 9386.5 ]
+      },
+      {
+        "map": [ 0.472, 0.71949673953075244 ],
+        "world": [ 13372, 9318 ]
+      },
+      {
+        "map": [ 0.53, 0.71949673953075244 ],
+        "world": [ 13627.5, 9406 ]
+      },
+      {
+        "map": [ 0.53, 0.65486145713728627 ],
+        "world": [ 13615.5, 9435.5 ]
+      },
+      {
+        "map": [ 0.472, 0.65486145713728627 ],
+        "world": [ 13366.5, 9337.5 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "FoodFactory-B"
+      },
+      {
+        "points": [ 8, 9, 10, 11 ],
+        "linkTarget": "FoodFactory-C"
+      },
+      {
+        "points": [ 12, 13, 14, 15 ],
+        "linkTarget": "FoodFactory-B"
+      }
+    ]
+  },
+  {
+    "name": "FoodFactory-B",
+    "url": "http://localhost:6886/schematic/images/Map-FoodFactory-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "FoodFactory-C",
+    "url": "http://localhost:6886/schematic/images/Map-FoodFactory-C.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "FoodFactory-D",
+    "url": "http://localhost:6886/schematic/images/Map-FoodFactory-D.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "ForestCentral-A",
+    "url": "http://localhost:6886/schematic/images/Map-ForestCentral-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 8582, 5463 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 9172, 5794 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 8988, 6050 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 8453, 5658 ]
+      },
+      {
+        "map": [ 0.474, 0.4089180874802314 ],
+        "world": [ 8649, 5688 ]
+      },
+      {
+        "map": [ 0.526, 0.4089180874802314 ],
+        "world": [ 8925, 5861 ]
+      },
+      {
+        "map": [ 0.526, 0.34705582876578778 ],
+        "world": [ 8886, 5904 ]
+      },
+      {
+        "map": [ 0.474, 0.34705582876578778 ],
+        "world": [ 8626, 5728 ]
+      },
+      {
+        "map": [ 0.474, 0.499041357048463 ],
+        "world": [ 8706, 5646 ]
+      },
+      {
+        "map": [ 0.527, 0.499041357048463 ],
+        "world": [ 8980, 5819 ]
+      },
+      {
+        "map": [ 0.527, 0.43579258649450814 ],
+        "world": [ 8963, 5843 ]
+      },
+      {
+        "map": [ 0.474, 0.43579258649450814 ],
+        "world": [ 8689, 5669 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "ForestCentral-B"
+      },
+      {
+        "points": [ 8, 9, 10, 11 ],
+        "linkTarget": "ForestCentral-C"
+      }
+    ]
+  },
+  {
+    "name": "ForestCentral-B",
+    "url": "http://localhost:6886/schematic/images/Map-ForestCentral-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "ForestCentral-C",
+    "url": "http://localhost:6886/schematic/images/Map-ForestCentral-C.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "ForestSouth-A",
+    "url": "http://localhost:6886/schematic/images/Map-ForestSouth-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 3461, 5226 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 4093, 5234 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 4084, 5450 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 3458, 5447 ]
+      },
+      {
+        "map": [ 0.54, 0.58500509109816068 ],
+        "world": [ 3595, 5304 ]
+      },
+      {
+        "map": [ 0.597, 0.58500509109816068 ],
+        "world": [ 4001, 5314 ]
+      },
+      {
+        "map": [ 0.597, 0.52314283238371717 ],
+        "world": [ 3992, 5382 ]
+      },
+      {
+        "map": [ 0.54, 0.52314283238371717 ],
+        "world": [ 3597, 5365 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "ForestSouth-B"
+      }
+    ]
+  },
+  {
+    "name": "ForestSouth-B",
+    "url": "http://localhost:6886/schematic/images/Map-ForestSouth-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "GoodsFactory-A",
+    "url": "http://localhost:6886/schematic/images/Map-GoodsFactory-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 10974, 12627 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 11307, 13248 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 11044, 13406 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 10698, 12766 ]
+      },
+      {
+        "map": [ 0.336, 0.67235533698736971 ],
+        "world": [ 10947, 12696 ]
+      },
+      {
+        "map": [ 0.39, 0.67235533698736971 ],
+        "world": [ 11033, 12874 ]
+      },
+      {
+        "map": [ 0.39, 0.61326610195194864 ],
+        "world": [ 11003, 12890 ]
+      },
+      {
+        "map": [ 0.336, 0.61326610195194864 ],
+        "world": [ 10905, 12719 ]
+      },
+      {
+        "map": [ 0.643, 0.673741848826881 ],
+        "world": [ 11075, 12935 ]
+      },
+      {
+        "map": [ 0.699, 0.673741848826881 ],
+        "world": [ 11162, 13108 ]
+      },
+      {
+        "map": [ 0.699, 0.6104930782729262 ],
+        "world": [ 11127, 13125 ]
+      },
+      {
+        "map": [ 0.643, 0.6104930782729262 ],
+        "world": [ 11035, 12958 ]
+      },
+      {
+        "map": [ 0.336, 0.32018132975151115 ],
+        "world": [ 10815, 12759 ]
+      },
+      {
+        "map": [ 0.393, 0.32018132975151115 ],
+        "world": [ 10974, 13081 ]
+      },
+      {
+        "map": [ 0.393, 0.25970558287657886 ],
+        "world": [ 10924, 13106 ]
+      },
+      {
+        "map": [ 0.336, 0.25970558287657886 ],
+        "world": [ 10766, 12784 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "GoodsFactory-B"
+      },
+      {
+        "points": [ 8, 9, 10, 11 ],
+        "linkTarget": "GoodsFactory-C"
+      },
+      {
+        "points": [ 12, 13, 14, 15 ],
+        "linkTarget": "GoodsFactory-D"
+      }
+    ]
+  },
+  {
+    "name": "GoodsFactory-B",
+    "url": "http://localhost:6886/schematic/images/Map-GoodsFactory-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "GoodsFactory-C",
+    "url": "http://localhost:6886/schematic/images/Map-GoodsFactory-C.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "GoodsFactory-D",
+    "url": "http://localhost:6886/schematic/images/Map-GoodsFactory-D.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "Harbor-A",
+    "url": "http://localhost:6886/schematic/images/Map-Harbor-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 3882, 12018 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 4002, 14324 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 2358, 14496 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 2382, 12140 ]
+      },
+      {
+        "map": [ 0.164, 0.3174083060724886 ],
+        "world": [ 2647, 12172 ]
+      },
+      {
+        "map": [ 0.22, 0.3174083060724886 ],
+        "world": [ 3258, 12455 ]
+      },
+      {
+        "map": [ 0.22, 0.25970558287657874 ],
+        "world": [ 3193, 12600 ]
+      },
+      {
+        "map": [ 0.164, 0.25970558287657874 ],
+        "world": [ 2581, 12315 ]
+      },
+      {
+        "map": [ 0.233, 0.31879481791199982 ],
+        "world": [ 2972, 12546 ]
+      },
+      {
+        "map": [ 0.287, 0.31879481791199982 ],
+        "world": [ 3473, 12769 ]
+      },
+      {
+        "map": [ 0.287, 0.25831907103706753 ],
+        "world": [ 3455, 12816 ]
+      },
+      {
+        "map": [ 0.233, 0.25831907103706753 ],
+        "world": [ 2954, 12585 ]
+      },
+      {
+        "map": [ 0.438, 0.31879481791199993 ],
+        "world": [ 2720, 12843 ]
+      },
+      {
+        "map": [ 0.494, 0.31879481791199993 ],
+        "world": [ 3442, 13173 ]
+      },
+      {
+        "map": [ 0.494, 0.25831907103706753 ],
+        "world": [ 3384, 13298 ]
+      },
+      {
+        "map": [ 0.438, 0.25831907103706753 ],
+        "world": [ 2661, 12969 ]
+      },
+      {
+        "map": [ 0.608, 0.67374184882688093 ],
+        "world": [ 3695, 13224 ]
+      },
+      {
+        "map": [ 0.665, 0.67374184882688093 ],
+        "world": [ 3671, 13797 ]
+      },
+      {
+        "map": [ 0.665, 0.609106566433415 ],
+        "world": [ 3597, 13793 ]
+      },
+      {
+        "map": [ 0.608, 0.609106566433415 ],
+        "world": [ 3616, 13228 ]
+      },
+      {
+        "map": [ 0.608, 0.58361857925864946 ],
+        "world": [ 3584, 13260 ]
+      },
+      {
+        "map": [ 0.665, 0.58361857925864946 ],
+        "world": [ 3557, 13788 ]
+      },
+      {
+        "map": [ 0.665, 0.521756320544206 ],
+        "world": [ 3524, 13786 ]
+      },
+      {
+        "map": [ 0.608, 0.521756320544206 ],
+        "world": [ 3542, 13257 ]
+      },
+      {
+        "map": [ 0.609, 0.49488182152992921 ],
+        "world": [ 3505, 13288 ]
+      },
+      {
+        "map": [ 0.664, 0.49488182152992921 ],
+        "world": [ 3478, 13696 ]
+      },
+      {
+        "map": [ 0.664, 0.43440607465499692 ],
+        "world": [ 3433, 13700 ]
+      },
+      {
+        "map": [ 0.609, 0.43440607465499692 ],
+        "world": [ 3448, 13289 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "Harbor-B"
+      },
+      {
+        "points": [ 8, 9, 10, 11 ],
+        "linkTarget": "Harbor-C"
+      },
+      {
+        "points": [ 12, 13, 14, 15 ],
+        "linkTarget": "Harbor-D"
+      },
+      {
+        "points": [ 16, 17, 18, 19 ],
+        "linkTarget": "Harbor-E"
+      },
+      {
+        "points": [ 20, 21, 22, 23 ],
+        "linkTarget": "Harbor-F"
+      },
+      {
+        "points": [ 24, 25, 26, 27 ],
+        "linkTarget": "Harbor-G"
+      }
+    ]
+  },
+  {
+    "name": "Harbor-B",
+    "url": "http://localhost:6886/schematic/images/Map-Harbor-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "Harbor-C",
+    "url": "http://localhost:6886/schematic/images/Map-Harbor-C.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "Harbor-D",
+    "url": "http://localhost:6886/schematic/images/Map-Harbor-D.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "Harbor-E",
+    "url": "http://localhost:6886/schematic/images/Map-Harbor-E.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "Harbor-F",
+    "url": "http://localhost:6886/schematic/images/Map-Harbor-F.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "Harbor-G",
+    "url": "http://localhost:6886/schematic/images/Map-Harbor-G.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "IronOreMineEast-A",
+    "url": "http://localhost:6886/schematic/images/Map-IronOreMineEast-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 14957, 14746 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 15597, 14975 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 15529, 15226 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 14871, 14977 ]
+      },
+      {
+        "map": [ 0.47200000000000003, 0.58500509109816079 ],
+        "world": [ 15010, 14882 ]
+      },
+      {
+        "map": [ 0.53, 0.58500509109816079 ],
+        "world": [ 15341, 14976 ]
+      },
+      {
+        "map": [ 0.53, 0.521756320544206 ],
+        "world": [ 15330, 15013 ]
+      },
+      {
+        "map": [ 0.47200000000000003, 0.521756320544206 ],
+        "world": [ 14999, 14916 ]
+      },
+      {
+        "map": [ 0.47, 0.40753157564072007 ],
+        "world": [ 15018, 14933 ]
+      },
+      {
+        "map": [ 0.527, 0.40753157564072007 ],
+        "world": [ 15318, 15069 ]
+      },
+      {
+        "map": [ 0.527, 0.34844234060529911 ],
+        "world": [ 15299, 15097 ]
+      },
+      {
+        "map": [ 0.47, 0.34844234060529911 ],
+        "world": [ 15000, 14958 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "IronOreMineEast-C"
+      },
+      {
+        "points": [ 8, 9, 10, 11 ],
+        "linkTarget": "IronOreMineEast-B"
+      }
+    ]
+  },
+  {
+    "name": "IronOreMineEast-B",
+    "url": "http://localhost:6886/schematic/images/Map-IronOreMineEast-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "IronOreMineEast-C",
+    "url": "http://localhost:6886/schematic/images/Map-IronOreMineEast-C.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "IronOreMineWest-A",
+    "url": "http://localhost:6886/schematic/images/Map-IronOreMineWest-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 13026, 2293 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 13540, 1824 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 13637, 1936 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 13133, 2421 ]
+      },
+      {
+        "map": [ 0.437, 0.49488182152992921 ],
+        "world": [ 13163, 2225 ]
+      },
+      {
+        "map": [ 0.493, 0.49488182152992921 ],
+        "world": [ 13502, 1927 ]
+      },
+      {
+        "map": [ 0.493, 0.43301956281548559 ],
+        "world": [ 13555, 2008 ]
+      },
+      {
+        "map": [ 0.437, 0.43301956281548559 ],
+        "world": [ 13207, 2278 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "IronOreMineWest-B"
+      }
+    ]
+  },
+  {
+    "name": "IronOreMineWest-B",
+    "url": "http://localhost:6886/schematic/images/Map-IronOreMineWest-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "MachineFactory-A",
+    "url": "http://localhost:6886/schematic/images/Map-MachineFactory-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 10305, 2097 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 11416, 2123 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 11400, 2656 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 10294, 2628 ]
+      },
+      {
+        "map": [ 0.54, 0.27581295088715085 ],
+        "world": [ 11065, 2462 ]
+      },
+      {
+        "map": [ 0.598, 0.27581295088715085 ],
+        "world": [ 11098, 2442 ]
+      },
+      {
+        "map": [ 0.598, 0.21395069217270735 ],
+        "world": [ 11179, 2568 ]
+      },
+      {
+        "map": [ 0.54, 0.21395069217270735 ],
+        "world": [ 11130, 2590 ]
+      },
+      {
+        "map": [ 0.437, 0.58500509109816068 ],
+        "world": [ 10679, 2266 ]
+      },
+      {
+        "map": [ 0.495, 0.58500509109816068 ],
+        "world": [ 11078, 2268 ]
+      },
+      {
+        "map": [ 0.495, 0.52314283238371717 ],
+        "world": [ 11061, 2332 ]
+      },
+      {
+        "map": [ 0.437, 0.52314283238371717 ],
+        "world": [ 10682, 2312 ]
+      },
+      {
+        "map": [ 0.438, 0.499041357048463 ],
+        "world": [ 10653, 2396 ]
+      },
+      {
+        "map": [ 0.494, 0.499041357048463 ],
+        "world": [ 10987, 2406 ]
+      },
+      {
+        "map": [ 0.494, 0.43579258649450814 ],
+        "world": [ 10987, 2435 ]
+      },
+      {
+        "map": [ 0.438, 0.43579258649450814 ],
+        "world": [ 10652, 2416 ]
+      },
+      {
+        "map": [ 0.436, 0.41169111115925394 ],
+        "world": [ 10630, 2418 ]
+      },
+      {
+        "map": [ 0.495, 0.41169111115925394 ],
+        "world": [ 10933, 2438 ]
+      },
+      {
+        "map": [ 0.495, 0.34705582876578789 ],
+        "world": [ 10932, 2460 ]
+      },
+      {
+        "map": [ 0.436, 0.34705582876578789 ],
+        "world": [ 10623, 2451 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "MachineFactory-E"
+      },
+      {
+        "points": [ 8, 9, 10, 11 ],
+        "linkTarget": "MachineFactory-D"
+      },
+      {
+        "points": [ 12, 13, 14, 15 ],
+        "linkTarget": "MachineFactory-C"
+      },
+      {
+        "points": [ 16, 17, 18, 19 ],
+        "linkTarget": "MachineFactory-B"
+      }
+    ]
+  },
+  {
+    "name": "MachineFactory-B",
+    "url": "http://localhost:6886/schematic/images/Map-MachineFactory-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "MachineFactory-C",
+    "url": "http://localhost:6886/schematic/images/Map-MachineFactory-C.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "MachineFactory-D",
+    "url": "http://localhost:6886/schematic/images/Map-MachineFactory-D.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "MachineFactory-E",
+    "url": "http://localhost:6886/schematic/images/Map-MachineFactory-E.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "MilitaryBase-A",
+    "url": "http://localhost:6886/schematic/images/Map-MilitaryBase-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 14661, 12974 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 14642, 12112 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 14808, 12108 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 14828, 12945 ]
+      },
+      {
+        "map": [ 0.437, 0.499041357048463 ],
+        "world": [ 14726, 12746 ]
+      },
+      {
+        "map": [ 0.494, 0.499041357048463 ],
+        "world": [ 14687, 12331 ]
+      },
+      {
+        "map": [ 0.494, 0.43579258649450814 ],
+        "world": [ 14764, 12320 ]
+      },
+      {
+        "map": [ 0.437, 0.43579258649450814 ],
+        "world": [ 14804, 12731 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "MilitaryBase-B"
+      }
+    ]
+  },
+  {
+    "name": "MilitaryBase-B",
+    "url": "http://localhost:6886/schematic/images/Map-MilitaryBase-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "OilWellCentral-A",
+    "url": "http://localhost:6886/schematic/images/Map-OilWellCentral-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 6448, 4516 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 6484, 5159 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 6229, 5214 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 6200, 4520 ]
+      },
+      {
+        "map": [ 0.47200000000000003, 0.36454970861587122 ],
+        "world": [ 6266, 4586 ]
+      },
+      {
+        "map": [ 0.529, 0.36454970861587122 ],
+        "world": [ 6327, 5050 ]
+      },
+      {
+        "map": [ 0.529, 0.30130093806191638 ],
+        "world": [ 6273, 5061 ]
+      },
+      {
+        "map": [ 0.47200000000000003, 0.30130093806191638 ],
+        "world": [ 6239, 4592 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "OilWellCentral-B"
+      }
+    ]
+  },
+  {
+    "name": "OilWellCentral-B",
+    "url": "http://localhost:6886/schematic/images/Map-OilWellCentral-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "OilWellNorth-A",
+    "url": "http://localhost:6886/schematic/images/Map-OilWellNorth-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 11393, 11266 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 11826, 11696 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 11668, 11835 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 11266, 11456 ]
+      },
+      {
+        "map": [ 0.54, 0.40614506380120885 ],
+        "world": [ 11478, 11404 ]
+      },
+      {
+        "map": [ 0.596, 0.40614506380120885 ],
+        "world": [ 11718, 11639 ]
+      },
+      {
+        "map": [ 0.596, 0.34566931692627656 ],
+        "world": [ 11682, 11685 ]
+      },
+      {
+        "map": [ 0.54, 0.34566931692627656 ],
+        "world": [ 11439, 11436 ]
+      },
+      {
+        "map": [ 0.541, 0.31879481791199993 ],
+        "world": [ 11425, 11523 ]
+      },
+      {
+        "map": [ 0.597, 0.31879481791199993 ],
+        "world": [ 11587, 11683 ]
+      },
+      {
+        "map": [ 0.597, 0.26109209471609007 ],
+        "world": [ 11558, 11710 ]
+      },
+      {
+        "map": [ 0.541, 0.26109209471609007 ],
+        "world": [ 11400, 11548 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "OilWellNorth-B"
+      },
+      {
+        "points": [ 8, 9, 10, 11 ],
+        "linkTarget": "OilWellNorth-C"
+      }
+    ]
+  },
+  {
+    "name": "OilWellNorth-B",
+    "url": "http://localhost:6886/schematic/images/Map-OilWellNorth-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "OilWellNorth-C",
+    "url": "http://localhost:6886/schematic/images/Map-OilWellNorth-C.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "Sawmill-A",
+    "url": "http://localhost:6886/schematic/images/Map-Sawmill-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 1823, 1389 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 2468, 1052 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 2549, 1290 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 1990, 1652 ]
+      },
+      {
+        "map": [ 0.437, 0.31879481791199982 ],
+        "world": [ 2043, 1450 ]
+      },
+      {
+        "map": [ 0.494, 0.31879481791199982 ],
+        "world": [ 2360, 1266 ]
+      },
+      {
+        "map": [ 0.494, 0.25831907103706753 ],
+        "world": [ 2374, 1293 ]
+      },
+      {
+        "map": [ 0.437, 0.25831907103706753 ],
+        "world": [ 2061, 1476 ]
+      },
+      {
+        "map": [ 0.438, 0.58361857925864946 ],
+        "world": [ 2041, 1401 ]
+      },
+      {
+        "map": [ 0.494, 0.58361857925864946 ],
+        "world": [ 2350, 1233 ]
+      },
+      {
+        "map": [ 0.494, 0.52452934422322839 ],
+        "world": [ 2361, 1255 ]
+      },
+      {
+        "map": [ 0.438, 0.52452934422322839 ],
+        "world": [ 2054, 1427 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "Sawmill-B"
+      },
+      {
+        "points": [ 8, 9, 10, 11 ],
+        "linkTarget": "Sawmill-C"
+      }
+    ]
+  },
+  {
+    "name": "Sawmill-B",
+    "url": "http://localhost:6886/schematic/images/Map-Sawmill-B.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "Sawmill-C",
+    "url": "http://localhost:6886/schematic/images/Map-Sawmill-C.png",
+    "points": [],
+    "rects": []
+  },
+  {
+    "name": "SteelMill-A",
+    "url": "http://localhost:6886/schematic/images/Map-SteelMill-A.png",
+    "points": [
+      {
+        "map": [ 0.034, 0.866 ],
+        "world": [ 7097, 7574 ]
+      },
+      {
+        "map": [ 0.966, 0.866 ],
+        "world": [ 7519, 7942 ]
+      },
+      {
+        "map": [ 0.966, 0.088 ],
+        "world": [ 7238, 8241 ]
+      },
+      {
+        "map": [ 0.034, 0.088 ],
+        "world": [ 6824, 7849 ]
+      },
+      {
+        "map": [ 0.403, 0.75970558287657874 ],
+        "world": [ 7093, 7627 ]
+      },
+      {
+        "map": [ 0.46, 0.75970558287657874 ],
+        "world": [ 7407, 7908 ]
+      },
+      {
+        "map": [ 0.46, 0.70061634784115778 ],
+        "world": [ 7377, 7947 ]
+      },
+      {
+        "map": [ 0.403, 0.70061634784115778 ],
+        "world": [ 7059, 7667 ]
+      }
+    ],
+    "rects": [
+      {
+        "points": [ 0, 1, 2, 3 ],
+        "linkTarget": ""
+      },
+      {
+        "points": [ 4, 5, 6, 7 ],
+        "linkTarget": "SteelMill-B"
+      }
+    ]
+  },
+  {
+    "name": "SteelMill-B",
+    "url": "http://localhost:6886/schematic/images/Map-SteelMill-B.png",
+    "points": [],
+    "rects": []
+  }
+]
