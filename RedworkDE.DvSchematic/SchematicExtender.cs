@@ -95,13 +95,12 @@ namespace RedworkDE.DvSchematic
 			go.transform.localScale = new Vector3(size.y, 0.001f, size.x);
 			var spec = go.AddComponent<Button>();
 			spec.useJoints = false;
+			spec.createRigidbody = false;
 			var button = go.GetComponent<ButtonBase>();
 			button.add_Used(() =>
 			{
 				_book.FlipTo(page);
 			});
-			var rb = go.GetComponent<Rigidbody>();
-			if (rb) rb.mass = 0;
 		}
 
 		void CreateLinks(List<(int tl, int tr, int br, int bl, string target)> rects, Vector2[] points)
