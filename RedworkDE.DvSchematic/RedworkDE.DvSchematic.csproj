@@ -6,14 +6,15 @@
     <Platforms>x64</Platforms>
     <LangVersion>preview</LangVersion>
     <Product>Enhanced Schematics Map</Product>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>RedworkDE</Authors>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RepositoryUrl>https://github.com/RedworkDE/DvSchematic</RepositoryUrl>
 
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="RedworkDE.DerailValley.ModBase" Version="0.1.114" />
+    <PackageReference Include="RedworkDE.DerailValley.ModBase" Version="0.1.117" />
     <PackageReference Include="RedworkDE.Publicizer" Version="0.2.2" />
     <PublicizeAssembly Include="Assembly-CSharp" Private="True" Readonly="True" />
   </ItemGroup>

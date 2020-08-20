@@ -95,7 +95,7 @@ namespace RedworkDE.DvSchematic
 			go.transform.localScale = new Vector3(size.y, 0.001f, size.x);
 			var spec = go.AddComponent<Button>();
 			spec.useJoints = false;
-			spec.createRigidbody = false;
+			spec.createRigidbody = !VRManager.IsVREnabled();
 			var button = go.GetComponent<ButtonBase>();
 			button.add_Used(() =>
 			{
